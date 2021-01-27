@@ -1,11 +1,11 @@
 # Django-ERP
 Django-ERP是一款基于Django开发的ERP管理软件，包含常用的销售管理、采购管理、库存管理、组织管理等，支持按项目归集费用，支持工作流审批，支持采购单、报价单的批量导入。
 
-Forked from <a href="https://github.com/zhuinfo/Django-ERP“</a> 感谢他的付出。
+Forked from <a href=https://github.com/zhuinfo</a> 感谢他的付出。
 
 # 安装指南
 
-> 原作者是Python2.7的，我现在已经修改为python3 版本，如果你有什么疑问可以留言。
+> 现在为python3版本，如果你有什么疑问可以留言。
 
 
 ## 数据库配置

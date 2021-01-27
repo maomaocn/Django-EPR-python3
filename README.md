@@ -27,7 +27,7 @@ DATABASES = {
 
 
 ## 克隆代码
-> git clone https://github.com/bg4hkq/Django-ERP.git
+> git clone git@github.com:maomaocn/Django-EPR-python3.git
 
 
 ## 导入数据库
